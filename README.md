@@ -1,2 +1,2 @@
 # File Utilities
-This repository houses a collection of file utilities for Go
+This repository houses a collection of simple file utilities
